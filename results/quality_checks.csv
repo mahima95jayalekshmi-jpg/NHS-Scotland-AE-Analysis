@@ -1,0 +1,9 @@
+Check,FlaggedRows
+Missing cells,0
+Exact duplicate rows,0
+Duplicate site-week-category keys,2
+Within 4h > attendances,0
+Within 4h + over 4h != attendances,0
+Over 8h > over 4h,0
+Over 12h > over 8h,0
+Negative counts,0

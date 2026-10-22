@@ -1,0 +1,6 @@
+TreatmentLocation,HospitalName,NumberOfAttendancesEpisode,NumberWithin4HoursEpisode,NumberOver4HoursEpisode,NumberOver8HoursEpisode,NumberOver12HoursEpisode,PctWithin4h,PctOver8h,PctOver12h
+G405H,Queen Elizabeth University Hospital,27240,12527,14713,5357,1953,45.99,19.67,7.17
+G107H,Glasgow Royal Infirmary,22561,11849,10712,3680,904,52.52,16.31,4.01
+C418H,Royal Alexandra Hospital,15930,9887,6043,2049,557,62.07,12.86,3.5
+C313H,Inverclyde Royal Hospital,7857,5682,2175,596,197,72.32,7.59,2.51
+G513H,Royal Hospital for Children,19033,17358,1675,37,0,91.2,0.19,0.0

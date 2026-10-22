@@ -1,0 +1,15 @@
+Column,DataType,MissingValues,Example
+WeekEndingDate,int64,0,20150222
+Country,str,0,S92000003
+HBT,str,0,S08000015
+TreatmentLocation,str,0,A210H
+DepartmentType,str,0,Type 1
+AttendanceCategory,str,0,Unplanned
+NumberOfAttendancesEpisode,int64,0,814
+NumberWithin4HoursEpisode,int64,0,624
+NumberOver4HoursEpisode,int64,0,190
+PercentageWithin4HoursEpisode,float64,0,76.7
+NumberOver8HoursEpisode,int64,0,21
+PercentageOver8HoursEpisode,float64,0,2.6
+NumberOver12HoursEpisode,int64,0,2
+PercentageOver12HoursEpisode,float64,0,0.2

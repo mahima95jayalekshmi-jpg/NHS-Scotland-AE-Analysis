@@ -1,0 +1,5 @@
+WeekEndingDate,Country,HBT,TreatmentLocation,DepartmentType,AttendanceCategory,NumberOfAttendancesEpisode,NumberWithin4HoursEpisode,NumberOver4HoursEpisode,PercentageWithin4HoursEpisode,NumberOver8HoursEpisode,PercentageOver8HoursEpisode,NumberOver12HoursEpisode,PercentageOver12HoursEpisode
+20150503,S92000003,S08000031,G405H,Type 1,All,221,195,26,88.2,4,1.8,0,0.0
+20150503,S92000003,S08000031,G405H,Type 1,All,643,555,88,86.3,1,0.2,0,0.0
+20150503,S92000003,S08000031,G405H,Type 1,Unplanned,221,195,26,88.2,4,1.8,0,0.0
+20150503,S92000003,S08000031,G405H,Type 1,Unplanned,643,555,88,86.3,1,0.2,0,0.0
